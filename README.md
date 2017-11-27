@@ -1,5 +1,6 @@
 [See in english below](#the-journey-of-food-to-your-pantry)
 
+UPDATE : this project uses a new repository, you can access it [here](https://github.com/soydetemporada/).
 
 # Soy de temporada
 ##### Proyecto seleccionado para el taller "Visualizar 17" del Medialab Prado
